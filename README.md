@@ -5,7 +5,7 @@ Ez Auto Suggestion JS Plugin
 https://yben56.github.io/islider/
 
 ##Dependencies
-jquery-3.1.1 & Bootstrap v3.3.6
+jquery-3.1.1
 
 ##Usage
 Create a div and wrap <div class='slide'><img /></div> insdie it.
