@@ -8,7 +8,7 @@ https://yben56.github.io/islider/
 jquery-3.1.1
 
 ##Usage
-Create a div and wrap <div class='slide'><img /></div> insdie it.
+Create a div and wrap ```html<div class='slide'><img /></div>``` insdie it.
 
 ```html
 <script src="js/islider.js"></script>
