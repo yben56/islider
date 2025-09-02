@@ -1,4 +1,4 @@
-Ez Auto Suggestion JS Plugin
+islider JS Plugin
 ==============================
 
 ##Demo
@@ -32,3 +32,4 @@ This work is licensed under a [MIT License](http://opensource.org/licenses/MIT).
 
 ##Author
 This Javascript plugin was written by Benjamin Wong benjamin-w@hotmail.com
+
